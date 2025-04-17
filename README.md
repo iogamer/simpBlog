@@ -1,5 +1,5 @@
 ### 1 - 初始化项目
-
+test
 + `npm init -y` 初始化 node工程
 + 修改 **main** 入口，新建 **bin/www.js**
   + 引入 `http` 模块
